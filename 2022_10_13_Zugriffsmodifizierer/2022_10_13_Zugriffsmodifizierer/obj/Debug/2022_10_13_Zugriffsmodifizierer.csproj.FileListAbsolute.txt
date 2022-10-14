@@ -1,0 +1,8 @@
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\bin\Debug\2022_10_13_Zugriffsmodifizierer.exe.config
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\bin\Debug\2022_10_13_Zugriffsmodifizierer.exe
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\bin\Debug\2022_10_13_Zugriffsmodifizierer.pdb
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\obj\Debug\2022_10_13_Zugriffsmodifizierer.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\obj\Debug\2022_10_13_Zugriffsmodifizierer.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\obj\Debug\2022_10_13_Zugriffsmodifizierer.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\obj\Debug\2022_10_13_Zugriffsmodifizierer.exe
+C:\Users\micha\source\repos\2022_10_13_Zugriffsmodifizierer\2022_10_13_Zugriffsmodifizierer\obj\Debug\2022_10_13_Zugriffsmodifizierer.pdb
